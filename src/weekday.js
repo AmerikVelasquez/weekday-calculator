@@ -1,3 +1,3 @@
-export default weekdayCalculator(dateString) => {
+export const weekdayCalculator = (dateString) => {
 
-}   
+};
